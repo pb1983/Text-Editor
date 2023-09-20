@@ -16,7 +16,7 @@ A Progressive Web App (PWA) is an application that is designed to function as if
 
 - Express.js - Create a package.json first with the npm init command. Installation is done using the npm install command: $ npm install express
 
-- Babel - Make sure all of the below Babel pluggins are installed:
+- Babel - Make sure all of the below Babel plugins are installed:
 
     - npm install --save-dev @babel/core
     - npm install --save-dev @babel/plugin-transform-runtime
@@ -31,4 +31,4 @@ A Progressive Web App (PWA) is an application that is designed to function as if
 
 [Repository](https://github.com/pb1983/Text-Editor)
 
-[Heroku Link](https://drive.google.com/file/d/1G7_u7y81_6NCCbg7tRAGhstb6rtgjDP0/view)
+[Heroku Link](https://dashboard.heroku.com/apps/protected-ravine-67853)
