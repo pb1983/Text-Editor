@@ -31,4 +31,4 @@ A Progressive Web App (PWA) is an application that is designed to function as if
 
 [Repository](https://github.com/pb1983/Text-Editor)
 
-[Heroku Link](https://dashboard.heroku.com/apps/protected-ravine-67853)
+[Heroku Link](https://protected-ravine-67853-bdbde3ad8ff6.herokuapp.com/)
